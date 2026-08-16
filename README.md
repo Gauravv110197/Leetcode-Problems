@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
