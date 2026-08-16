@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravv110197/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
