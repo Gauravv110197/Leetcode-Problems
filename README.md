@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravv110197/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravv110197/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
