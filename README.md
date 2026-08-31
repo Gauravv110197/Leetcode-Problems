@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravv110197/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
