@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravv110197/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -75,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
