@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0046-permutations](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
