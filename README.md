@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
+| [0066-plus-one](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
