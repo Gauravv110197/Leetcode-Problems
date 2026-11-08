@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravv110197/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
