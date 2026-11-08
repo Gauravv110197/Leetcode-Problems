@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
