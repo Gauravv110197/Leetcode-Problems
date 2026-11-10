@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0066-plus-one](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
