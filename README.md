@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gauravv110197/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
