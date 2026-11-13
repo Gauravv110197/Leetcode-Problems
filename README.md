@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [2469-convert-the-temperature](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/2469-convert-the-temperature/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
