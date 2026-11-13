@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2469-convert-the-temperature](https://github.com/Gauravv110197/Leetcode-Problems/tree/main/2469-convert-the-temperature/) | Easy |
